@@ -1,2 +1,2 @@
-# Quantitative Macroeconomics
+# Development
 ## author: Adam Andrzej Wilczyński
